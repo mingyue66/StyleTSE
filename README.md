@@ -113,7 +113,14 @@ The generated mixtures and resampled individual utterances will be saved to the 
 
 
 ## Citations
-If you use TextrolMix, please cite this webpage in the footnote.
+If you use TextrolMix, please cite the following paper:
+
+@article{huo2025beyond,
+  title={Beyond speaker identity: Text guided target speech extraction},
+  author={Huo, Mingyue and Jain, Abhinav and Huynh, Cong Phuoc and Kong, Fanjie and Wang, Pichao and Liu, Zhu and Bhat, Vimal},
+  journal={ICASSP 2025},
+  year={2025}
+}
 
 <!-- If you only use Textrolspeech, please cite the following paper:
 
